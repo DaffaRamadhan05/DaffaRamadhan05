@@ -1,0 +1,11 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" rx="24" fill="#0F172A"/>
+  <rect x="24" y="24" width="1152" height="212" rx="18" fill="#111827" stroke="#22D3EE" stroke-width="2"/>
+  <rect x="48" y="48" width="180" height="160" rx="12" fill="#1E293B"/>
+  <rect x="72" y="72" width="40" height="40" fill="#22D3EE"/>
+  <rect x="120" y="72" width="40" height="40" fill="#F59E0B"/>
+  <rect x="72" y="120" width="88" height="40" fill="#38BDF8"/>
+  <text x="270" y="108" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Muhammad Raja Daffa</text>
+  <text x="270" y="148" fill="#22D3EE" font-family="Segoe UI, Arial" font-size="20">Coding Enthusiast • UI/UX • SaaS Builder</text>
+  <text x="270" y="182" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="16">Retro profile banner for GitHub • ready to customize</text>
+</svg>

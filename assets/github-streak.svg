@@ -1,0 +1,7 @@
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" rx="16" fill="#111827"/>
+  <text x="40" y="42" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="20" font-weight="700">GitHub Contribution Streak</text>
+  <text x="40" y="74" fill="#22D3EE" font-family="Segoe UI, Arial" font-size="16">Keep pushing commits and level up your profile</text>
+  <rect x="40" y="84" width="720" height="10" rx="5" fill="#1F2937"/>
+  <rect x="40" y="84" width="520" height="10" rx="5" fill="#22D3EE"/>
+</svg>
