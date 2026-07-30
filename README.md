@@ -1,22 +1,19 @@
-﻿# <img src="./assets/hero.svg" alt="Daffa Ramadhan hero" width="100%" />
+# <img src="./assets/profile-banner.svg" alt="Daffa Ramadhan banner" width="100%" />
 
 <p align="center">
   🎨 UI/UX Designer | 💡 Product Thinker | ⚡ Frontend Enthusiast
 </p>
 
-## HERO
 
-<p align="center">
-  A modern GitHub profile styled like a neon portfolio header — focused on UI/UX, product design, and clean digital systems.
-</p>
 
-## ARSENAL
+
+## UI/UX & Design Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe_XD-111827?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Framer-111827?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer" />
+  <img src="https://img.shields.io/badge/Adobe_XD-111827?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
@@ -26,24 +23,25 @@
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
-## SKILLS
+### Design Focus
 
 <p align="center">
-  <span style="display:inline-block; margin: 6px; padding: 10px 18px; background:#0F172A; color:#F8FAFC; border-radius:999px; border:1px solid rgba(226,232,240,0.12);">UI Design</span>
-  <span style="display:inline-block; margin: 6px; padding: 10px 18px; background:#0F172A; color:#22D3EE; border-radius:999px; border:1px solid rgba(34,211,238,0.18);">UX Research</span>
-  <span style="display:inline-block; margin: 6px; padding: 10px 18px; background:#0F172A; color:#A855F7; border-radius:999px; border:1px solid rgba(168,85,247,0.18);">Interaction Design</span>
-  <span style="display:inline-block; margin: 6px; padding: 10px 18px; background:#0F172A; color:#38BDF8; border-radius:999px; border:1px solid rgba(56,189,248,0.18);">Product Strategy</span>
+  ✨ User Interface Design | 🧠 UX Thinking | 🎯 Product Experience | 🖼️ Visual Design | ♿ Accessibility
 </p>
 
-## CONNECT
+## Currently Building
+
+Designing intuitive digital experiences, polished interfaces, and practical product ideas with a strong focus on usability and aesthetics.
+
+## Design Principles
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> ·
-  <a href="https://www.tiktok.com/@rzadaffa_" target="_blank">TikTok</a> ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+  🎨 Clarity | 🧭 Consistency | ⚡ Speed | ♿ Accessibility | 🧠 Empathy
 </p>
 
-## GITHUB STATISTICS
+## GitHub Statistics
+
+> If the cards below show broken images, check your username and wait a minute for the services to generate them. These endpoints are widely used and usually reliable.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaffaRamadhan05&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -57,8 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaRamadhan05&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-## CONTRIBUTION GRAPH
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+  For a fun contribution-graph (Puzzle/Arcade), follow instructions at: https://github.com/rhellokitty/rhellokitty
 </p>
