@@ -1,7 +1,7 @@
-# <img src="./assets/profile-banner.svg" alt="Daffa Ramadhan banner" width="100%" />
+﻿# <img src="./assets/profile-banner.svg" alt="Daffa Ramadhan banner" width="100%" />
 
 <p align="center">
-  🎨 UI/UX Designer | 💡 Product Thinker | ⚡ Frontend Enthusiast
+  ðŸŽ¨ UI/UX Designer | ðŸ’¡ Product Thinker | âš¡ Frontend Enthusiast
 </p>
 
 
@@ -19,14 +19,12 @@
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
 ### Design Focus
 
 <p align="center">
-  ✨ User Interface Design | 🧠 UX Thinking | 🎯 Product Experience | 🖼️ Visual Design | ♿ Accessibility
+  âœ¨ User Interface Design | ðŸ§  UX Thinking | ðŸŽ¯ Product Experience | ðŸ–¼ï¸ Visual Design | â™¿ Accessibility
 </p>
 
 ## Currently Building
@@ -36,7 +34,7 @@ Designing intuitive digital experiences, polished interfaces, and practical prod
 ## Design Principles
 
 <p align="center">
-  🎨 Clarity | 🧭 Consistency | ⚡ Speed | ♿ Accessibility | 🧠 Empathy
+  ðŸŽ¨ Clarity | ðŸ§­ Consistency | âš¡ Speed | â™¿ Accessibility | ðŸ§  Empathy
 </p>
 
 ## GitHub Statistics
