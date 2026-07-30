@@ -1,7 +1,7 @@
 ﻿# <img src="./assets/profile-banner.svg" alt="Daffa Ramadhan banner" width="100%" />
 
 <p align="center">
-  ðŸŽ¨ UI/UX Designer | ðŸ’¡ Product Thinker | âš¡ Frontend Enthusiast
+  🎨 UI/UX Designer | 💡 Product Thinker | ⚡ Frontend Enthusiast
 </p>
 
 
@@ -24,7 +24,7 @@
 ### Design Focus
 
 <p align="center">
-  âœ¨ User Interface Design | ðŸ§  UX Thinking | ðŸŽ¯ Product Experience | ðŸ–¼ï¸ Visual Design | â™¿ Accessibility
+  ✨ User Interface Design | 🧠  UX Thinking | 🎯 Product Experience | 🖼️ Visual Design | ♿ Accessibility
 </p>
 
 ## Currently Building
@@ -34,7 +34,7 @@ Designing intuitive digital experiences, polished interfaces, and practical prod
 ## Design Principles
 
 <p align="center">
-  ðŸŽ¨ Clarity | ðŸ§­ Consistency | âš¡ Speed | â™¿ Accessibility | ðŸ§  Empathy
+  🎨 Clarity | 🧠­ Consistency | ⚡ Speed | ♿ Accessibility | 🧠  Empathy
 </p>
 
 ## GitHub Statistics
